@@ -7,6 +7,7 @@ namespace dotnet_practise
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
